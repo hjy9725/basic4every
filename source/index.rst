@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-probability documentation
+Artificial Intelligence documentation
 =========================
 
-Welcome to the probability documentation! Here you will find information related to various probability concepts.
+Welcome to the AI documentation! Here you will find information related to various AI concepts.
 
 .. toctree::
    :maxdepth: 2
